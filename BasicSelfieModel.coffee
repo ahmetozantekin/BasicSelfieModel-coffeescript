@@ -28,7 +28,7 @@ class Selfie
               barzoCount+=1
               #ağlama melis :(
 
-         else 
+        else 
             alert "GİT BURDAN GEY."
 
       
